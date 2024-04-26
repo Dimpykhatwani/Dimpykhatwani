@@ -2,7 +2,11 @@
 <h5> 🔭 I'm an experienced DevOps engineer with expertise in AWS, Azure, Jenkins, Docker, Kubernetes, and Shell scripting. I believe in the power of automation and continuous integration/continuous delivery (CI/CD) to deliver high-quality software quickly and efficiently. I enjoy exploring new technologies and sharing my knowledge with the DevOps community. </h5>
 
 <h6> 🌱 I’m currently working with multiple tools and technologies to improve automation and infrastructure management. </h6>
-<h6>💬 Ask me about RDBMS, SCRUM, CI/CD, Git, Git-Hub & Git-Hub Actions, Git-Lab & Git-Lab CI, AWS, Docker, Terraform, Jenkins, Linux, Shell-Script</h6>
+
+<h6> 💬 Ask me about RDBMS, SCRUM, CI/CD, Git, Git-Hub & Git-Hub Actions, Git-Lab & Git-Lab CI, AWS, Docker, Terraform, Jenkins, Linux, Shell-Script</h6>
+
+<h6> 📫How to reach me khatwanidimpy@gmail.com </h6>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/dimpy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dimpy01" height="30" width="40" /></a>
