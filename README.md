@@ -1,4 +1,4 @@
-### Hi, 👋 I Am Dimpy khatwani 
+### Hi, 👋 I'm Dimpy khatwani 
 
 <h5> 🔭 I'm an experienced DevOps engineer with expertise in AWS, Azure, Jenkins, Docker, Kubernetes, and Shell scripting. I believe in the power of automation and continuous integration/continuous delivery (CI/CD) to deliver high-quality software quickly and efficiently. I enjoy exploring new technologies and sharing my knowledge with the DevOps community. </h5>
 
