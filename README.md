@@ -3,9 +3,9 @@
 
 <h6> 🌱 I’m currently working with multiple tools and technologies to improve automation and infrastructure management. </h6>
 
-<h6> 💬 Ask me about RDBMS, SCRUM, CI/CD, Git, Git-Hub & Git-Hub Actions, Git-Lab & Git-Lab CI, AWS, Docker, Terraform, Jenkins, Linux, Shell-Script</h6>
+<h6> 💬 Ask me about RDBMS, SCRUM, CI/CD, Git, Git-Hub & Git-Hub Actions, Git-Lab & Git-Lab CI, AWS, Docker, Terraform, Jenkins, Linux, Shell-Script . </h6>
 
-<h6> 📫How to reach me khatwanidimpy@gmail.com </h6>
+<h6> 📫How to reach me khatwanidimpy@gmail.com . </h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
